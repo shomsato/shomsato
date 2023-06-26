@@ -1,8 +1,6 @@
 ### こんにちは
-Pyramid by TsumikiWorks プロジェクト公開中
+Pyramid by TsumikiWorks公開中
 ![Pyramid by TsumikiWorks](Pyramid_with_TsumikiWorks.svg)
-https://github.com/tsumiki-works/Pyramid
+https://pyramid.224.works
 
-StudyLensの開発に参加するかも？
-
-https://study.224.works/
+StudyLensの開発に参加するかも？<br>https://study.224.works/
